@@ -1,0 +1,18 @@
+1、矢量图研究
+2、矢量图生成PDF
+3、类似word 编辑器开发 研究核心技术
+4、使用GDI+实现自定义控件
+5、CEF控件封装 
+6、PDF 阅读工具 生成工具开发
+7、音乐播放开源组件：LibZPlay
+8、PDF 结构解析
+9、EMF结构解析
+10、DevExpressSourcesUpdateSalt源码解析
+11、硬件扫描仪器、读卡设备 条码  二维码 高拍仪  开发
+12、字体写入
+13、itextpdf 源码修改
+14、pdfuim 使用
+15、ItextSharp 源码解析 
+16、SVGArtiste2_src 源码解析
+
+ 以上技术 大部分是编写编辑器使用
